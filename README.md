@@ -21,9 +21,9 @@ poise -k <keyword> [options]
 Options
 
 ```
--c, --count                  Number of quotes to retrieve     [interger] [default: 1]
--l, --language               Quotes preferred language        [string] [default: en]
--f, --format [json|xml|csv]  File format for the output       [string] [default: json]
+-c, --count                  Number of quotes to retrieve     [integer] [default: 1]
+-l, --language               Quotes preferred language        [string]  [default: en]
+-f, --format [json|xml|csv]  File format of the output        [string]  [default: json]
 ```
 
 ## License
